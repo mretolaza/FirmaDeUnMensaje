@@ -1,0 +1,23 @@
+{
+  "name": "digital-signature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "parserOptions": {
+    "ecmaVersion": 11,
+    "sourceType": "module"
+  },
+  "devDependencies": {
+    "eslint": "7.4.0",
+    "eslint-config-airbnb-base": "14.2.0",
+    "eslint-plugin-import": "2.22.0",
+    "eslint-plugin-node": "11.1.0",
+    "lint-staged": "10.2.11",
+    "nodemon": "2.0.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
